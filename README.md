@@ -1,7 +1,9 @@
 # Final Project Trực quan hóa dữ liệu
 Final Project Trực quan hóa dữ liệu trường đại học khoa học tự nhiên
+
 # Mô tả project :
-* Thu nhập các thông tin từ trang https://soundcloud.com/ bằng parse HTML và API (thời gian hoàn thành 14/11/2021).
+* sử dụng công cụ trực quan hóa dữ liệu để phân tích dữ liệu về điểm thi THQP QG 2021 (thời gian hoàn thành 30/4/2021).
+
 
 # Danh sách thành viên : 
 | MSSV     | Họ tên             | Github                                        |
